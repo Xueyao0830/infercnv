@@ -5,5 +5,4 @@
 ### 3. gene_position
 
 ## 2. How to set the parameters
-![Uploading 图片.png…]()
-
+![](https://raw.githubusercontent.com/wiki/broadinstitute/infercnv/images/infercnv.logo.png)
